@@ -1,5 +1,5 @@
 body {
-  background: #EEE;
+  background: #eee;
   margin: 0;
   padding: 0;
 }
@@ -23,9 +23,9 @@ ul {
 }
 
 li {
-  color: #FFF;
+  color: #fff;
   display: inline-block;
-  font-family: 'Oxygen', sans-serif;
+  font-family: "Oxygen", sans-serif;
   font-size: 16px;
   font-weight: 300;
   letter-spacing: 2px;
@@ -49,10 +49,10 @@ table {
   width: 80%;
 }
 
-thead th {
+th {
   background: #e9b328;
-  color: #FFF;
-  font-family: 'Lato', sans-serif;
+  color: #fff;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   font-weight: 100;
   letter-spacing: 2px;
@@ -61,22 +61,23 @@ thead th {
 
 tr {
   background: #f4f7f8;
-  border-bottom: 1px solid #FFF;
+  border-bottom: 1px solid #fff;
   margin-bottom: 5px;
 }
 
-th, td {
-  font-family: 'Lato', sans-serif;
+th,
+td {
+  font-family: "Lato", sans-serif;
   font-weight: 400;
   padding: 20px;
   text-align: left;
 }
 
 .search {
-  background-color: #FFF;
-  border: 1px solid #DDD;
+  background-color: #fff;
+  border: 1px solid #ddd;
   border-radius: 3px;
-  color: #AAA;
+  color: #aaa;
   padding: 20px;
   margin: 50px auto 0px auto;
   width: 77%;
